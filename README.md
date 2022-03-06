@@ -4,3 +4,5 @@ Problem A leading global leader of e-commerce has over 150 million paid subscrip
 Your task is to build a predictive model using Machine Learning that helps them set up a lowest-pricing model for these products. 
 
 You have to predict the Low_Cap_Price column.
+
+https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-the-lowest-price/submissions/
